@@ -1,6 +1,9 @@
 _repo: The-doctor-c-vol-4-of-7_71981
 _version: 0.1.0
 alternative_title: The doctor, etc., vol. 4 (of 7)
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Southey, Robert
@@ -10,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/488
     wikipedia: https://en.wikipedia.org/wiki/Robert_Southey
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/71981#The-doctor-c-vol-4-of-7
 gutenberg_issued: '2023-10-29'
 identifiers:
   gutenberg: '71981'
